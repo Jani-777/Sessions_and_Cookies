@@ -285,7 +285,7 @@ if (isset($_GET['transaction_id'])) {
             <?php endif; ?>
             <div class="action-links">
                 <a href="search.php">🔍 Search Users</a>
-                <a href="logout.php" class="logout">🚪 Logout</a>
+                <a href="login.php" class="logout">🚪 Logout</a>
             </div>
         </div>
 
